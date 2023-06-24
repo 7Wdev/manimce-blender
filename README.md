@@ -6,18 +6,18 @@ my manim setup:
 ```
 manimce:
   plugins:
-  manimce-blender
-  manim-cad-drawing-utils
-  manim-chemistry
-  manim-code-blocks
-  manim-data-structures
-  manim-fontawesome
-  manim-fonts
-  manim-gearbox
-  manim-ml
-  manim-physics
-  manim-sequence-diagram
-  manim-voiceover
-  ManimPango
-  pandas
+    manimce-blender
+    manim-cad-drawing-utils
+    manim-chemistry
+    manim-code-blocks
+    manim-data-structures
+    manim-fontawesome
+    manim-fonts
+    manim-gearbox
+    manim-ml
+    manim-physics
+    manim-sequence-diagram
+    manim-voiceover
+    ManimPango
+    pandas
 ```
